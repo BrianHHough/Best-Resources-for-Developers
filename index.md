@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome < The Best Resources for Developers >
 
 You can use the [editor on GitHub](https://github.com/BrianHHough/Best-Resources-for-Developers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
